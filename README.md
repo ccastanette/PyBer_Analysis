@@ -69,8 +69,10 @@ plt.show()
 ## Results
 
 The results of our work were 2 visualizations that will allow us to make important business decisions. Here they are:
-![Summary Data Frame]()
+### Summary DataFrame
+![Summary Data Frame](https://github.com/ccastanette/PyBer_Analysis/blob/main/analysis/Summary%20DF.png)
 
+### Line Chart of Fares per Week
 ![Line Chare Fare by City](https://github.com/ccastanette/PyBer_Analysis/blob/main/analysis/Fig8.png)
 
 ## Summary
